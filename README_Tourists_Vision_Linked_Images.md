@@ -40,7 +40,8 @@ The project aims to support tourism authorities and decision-makers with intelli
 
 ---
 
-## 🛣️ Complete AI Pipeline
+## 🛣️ System Methodology
+
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/emharthi/tourists-vision/main/Assets/Project%20Architecture.png" width="100%">
